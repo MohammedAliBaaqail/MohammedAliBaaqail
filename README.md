@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working On:<br>Refining skills in React.js, Next.js, Node.js, and Express.js for frontend and backend development.<br><br>Looking to Collaborate On:<br>Innovative projects that challenge norms and embrace creativity in software engineering.<br><br>Seeking Help With:<br>Deepening understanding of advanced software engineering concepts, especially in optimization and DevOps practices.<br><br>Currently Learning:<br>Advanced frontend techniques, Redux state management, TypeScript, and enhancing project scalability.<br><br>Ask Me About:<br>Web application development, software engineering journey, and best practices in frontend and backend coding.
+🔭Currently Working On:<br>Refining skills in React.js, Next.js, Node.js, and Express.js for frontend and backend development.<br><br>👯Looking to Collaborate On:<br>Innovative projects that challenge norms and embrace creativity in software engineering.<br><br>🤝Seeking Help With:<br>Deepening understanding of advanced software engineering concepts, especially in optimization and DevOps practices.<br><br>🌱Currently Learning:<br>Advanced frontend techniques, Redux state management, TypeScript, and enhancing project scalability.<br><br>💬Ask Me About:<br>Web application development, software engineering journey, and best practices in frontend and backend coding.
 
 
 ## 🌐 Socials:
